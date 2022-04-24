@@ -1,0 +1,14 @@
+C:\Users\Vasya\Documents\Projects\8888888\8888888\obj\x86\Debug\8888888.csprojResolveAssemblyReference.cache
+C:\Users\Vasya\Documents\Projects\8888888\8888888\bin\Debug\8888888.exe
+C:\Users\Vasya\Documents\Projects\8888888\8888888\bin\Debug\8888888.pdb
+C:\Users\Vasya\Documents\Projects\8888888\8888888\obj\x86\Debug\8888888.exe
+C:\Users\Vasya\Documents\Projects\8888888\8888888\obj\x86\Debug\8888888.pdb
+C:\Users\noMercy\Desktop\8888888\8888888\bin\Debug\8888888.exe
+C:\Users\noMercy\Desktop\8888888\8888888\bin\Debug\8888888.pdb
+C:\Users\noMercy\Desktop\8888888\8888888\obj\x86\Debug\8888888.csprojResolveAssemblyReference.cache
+C:\Users\noMercy\Desktop\8888888\8888888\obj\x86\Debug\8888888.exe
+C:\Users\noMercy\Desktop\8888888\8888888\obj\x86\Debug\8888888.pdb
+C:\Users\noMercy\Desktop\EncrypterForEveryone\obj\x86\Debug\8888888.csprojResolveAssemblyReference.cache
+C:\Users\noMercy\Desktop\EncrypterForEveryone\obj\x86\Debug\8888888.exe
+C:\Users\noMercy\Desktop\EncrypterForEveryone\obj\x86\Debug\8888888.csproj.AssemblyReference.cache
+C:\Users\noMercy\Desktop\EncrypterForEveryone\obj\x86\Debug\8888888.csproj.CoreCompileInputs.cache
